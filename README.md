@@ -1,6 +1,6 @@
-```bash
+
 welcome to [DOCTORS PORTAL](https://doctors-portal-8165f.web.app/)
-```
+
 #### Project name 
 <span style="color: green">  DOCTORS PORTAL </span>
 
@@ -44,9 +44,9 @@ Live: [DOCTORS PORTAL](https://doctors-portal-8165f.web.app/)
 
 To run this application ,install it locally using npm:
 ```bash
-* $ cd ../lorem
-* $ npm install
-* $ npm start
+ $ cd ../lorem
+ $ npm install
+ $ npm start
 ```
 
 # ABOUT ME
