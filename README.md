@@ -25,15 +25,16 @@ Live: [DOCTORS PORTAL](https://doctors-portal-8165f.web.app/)
 * Google font
 * Node JS
 * netlify 
+* MongoDB
 
 ## Features
 #### This application provides feature 
 
-##### Appointments
-##### Dental Doctors
-##### Show appointments by date
-##### Feedback System
-##### Show all appointments data by user 
+##### Full-Stack web app, you have hassle free google sign in method.
+##### An authenticated user can order his/her desired services.
+##### You can show your registered task based on your email.
+##### Admin Dashboard / User Dashboard.
+##### Admin can create new appointment task and can monitor whole system.
 
 
 ## Screenshot
@@ -53,10 +54,10 @@ To run this application ,install it locally using npm:
 #### See details about me
 [Facebook](https://www.facebook.com/md.muktarulkhanakash)
 
-[Resume](https://drive.google.com/file/d/1X41QFDHFr8z2XFRPJzVo7Acig-WDUTkM/view)
+[Resume](https://drive.google.com/file/d/1DT1fDqtNxLNr6ZZnVaXL6eH0kI7vvlAW/view?usp=sharing)
 
 [LinkedIn](https://www.linkedin.com/in/muktarul-khan-akash-r/)
 
 [Github](https://github.com/Muktarul-Islam420)
 
-[Portfolio](https://www.linkedin.com/in/muktarul-khan-akash-r/)
+[Portfolio](https://muktarul.netlify.app/)
